@@ -21,8 +21,7 @@ Interactive personal portfolio for **Sarthak Chandervanshi**, Data Scientist & R
 
 ```
 .
-├── index.html           # GitHub Pages entry point (deploy this)
-├── Portfolio.dc.html    # Source file (edit here in Cursor / DCLogic)
+├── index.html           # Main site (edit this)
 ├── support.js           # DCLogic runtime (generated — do not edit by hand)
 ├── config.js            # Decodes obfuscated keys from env.js at runtime
 ├── CNAME                # Custom domain: sarthakchandervanshi.uk
@@ -35,11 +34,6 @@ Interactive personal portfolio for **Sarthak Chandervanshi**, Data Scientist & R
 ├── README.md
 └── LICENSE
 ```
-
-> **Before pushing:** If you edit `Portfolio.dc.html`, copy it to `index.html` so the live site stays in sync:
-> ```bash
-> cp Portfolio.dc.html index.html
-> ```
 
 ---
 

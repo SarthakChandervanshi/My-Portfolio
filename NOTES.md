@@ -1,4 +1,4 @@
-# Environment & build notes (Portfolio.dc.html)
+# Environment & build notes (index.html)
 
 ## Preview environment quirks (learned the hard way)
 - IntersectionObserver NEVER fires in the preview iframe → use scroll-handler reveals (getBoundingClientRect vs vh*0.9).
