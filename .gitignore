@@ -1,0 +1,9 @@
+.DS_Store
+.cursor/
+.env
+env.js
+*.png
+!assets/**/*.png
+*.jpeg
+!assets/**/*.jpeg
+privacy_utility_tradeoff.png
