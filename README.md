@@ -4,8 +4,6 @@ Interactive personal portfolio for **Sarthak Chandervanshi**, Data Scientist & R
 
 **Live site:** [sarthakchandervanshi.uk](https://sarthakchandervanshi.uk)
 
-Also available via GitHub Pages: [sarthakchandervanshi.github.io](https://sarthakchandervanshi.github.io)
-
 ---
 
 ## Tech stack
